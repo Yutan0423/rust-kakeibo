@@ -1,0 +1,10 @@
+[
+  {
+    "name": "7月の給料",
+    "category": {
+      "Income": "Salary"
+    },
+    "price": 300000,
+    "date": "2023-07-22"
+  }
+]

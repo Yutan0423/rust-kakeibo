@@ -1,4 +1,4 @@
-use rust_kakeibo::services;
+use rust_kakeibo::{constants, services};
 use std::io;
 
 fn main() {
@@ -9,7 +9,7 @@ fn main() {
     services::validate::InputValidator::validate_service_type(service_type);
 
     if service_type == 0 {
-        println!("登録サービス");
+        services::register::run(constants::FILE_PATH);
     } else if service_type == 1 {
         println!("集計サービス");
     }
