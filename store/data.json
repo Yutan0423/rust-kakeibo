@@ -6,5 +6,45 @@
     },
     "price": 300000,
     "date": "2023-07-22"
+  },
+  {
+    "name": "ニューヨークチーズケーキ",
+    "category": {
+      "Expence": "Food"
+    },
+    "price": 836,
+    "date": "2023-07-24"
+  },
+  {
+    "name": "7月の給料",
+    "category": {
+      "Income": "Salary"
+    },
+    "price": 300000,
+    "date": "2023-07-22"
+  },
+  {
+    "name": "ニューヨークチーズケーキ",
+    "category": {
+      "Expence": "Food"
+    },
+    "price": 836,
+    "date": "2023-07-24"
+  },
+  {
+    "name": "7月の給料",
+    "category": {
+      "Income": "Salary"
+    },
+    "price": 300000,
+    "date": "2023-07-22"
+  },
+  {
+    "name": "ニューヨークチーズケーキ",
+    "category": {
+      "Expence": "Food"
+    },
+    "price": 836,
+    "date": "2023-07-24"
   }
 ]
